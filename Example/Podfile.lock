@@ -1,0 +1,23 @@
+PODS:
+  - ERHUIKit (0.1.0):
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - ERHUIKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  ERHUIKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ERHUIKit: 9ae000e064aa03e0aa4ed3ceaa0f75c56923d6c2
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: b943badd079b4915c59d10456738fafafbc39a96
+
+COCOAPODS: 1.12.1
